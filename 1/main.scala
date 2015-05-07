@@ -1,4 +1,4 @@
-object HelloWorld {
+object ProblemOne {
   def main(args: Array[String]) {
     println("Hello, world!")
     val multiples = getMultiples(999, Array(3,5))

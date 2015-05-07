@@ -1,6 +1,6 @@
 import scala.collection.mutable.ArrayBuffer
 
-object HelloWorld {
+object ProblemTwo {
   def main(args: Array[String]) {
     println(fib(1, 4000000).filter(x => isMultiple(x,2)).reduceLeft(_+_))
   }
