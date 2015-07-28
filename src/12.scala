@@ -1,8 +1,7 @@
-
-
 /**
  * @author timcoulson
  */
-class 12 {
-  
-}
+class ProblemTwelve {
+ def main(args: Array[String]) {
+   
+ }

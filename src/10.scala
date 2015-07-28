@@ -1,6 +1,6 @@
 import scala.collection.mutable.ArrayBuffer
 
-object ProblemSeven {
+object ProblemTen {
   def main(args: Array[String]) {
     println(genPrimes(2000000))
   }

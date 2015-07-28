@@ -1,6 +1,6 @@
 import scala.collection.mutable.ListBuffer
 
-object ProblemSix {
+object ProblemEight {
   def main(args: Array[String]) {
     val n = """
     73167176531330624919225119674426574742355349194934
